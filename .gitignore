@@ -1,3 +1,4 @@
 .stack-work/
 booktools.cabal
+stack.yaml.lock
 *~
